@@ -1,0 +1,13 @@
+import module_math_op as mo
+result = mo.add(5, 10)
+print("Addition Result:", result)
+result = mo.subtract(10, 5)
+print("Subtraction Result:", result)
+result = mo.multiply(4, 3)
+print("Multiplication Result:", result)
+result = mo.divide(10, 2)
+print("Division Result:", result)   
+result = mo.power(2, 3)
+print("Power Result:", result)
+result = mo.modulus(10, 3)  
+print("Modulus Result:", result)
